@@ -125,7 +125,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-workspace-inspector = { git = "https://github.com/caladriuslogic/workspace-inspector" }
+workspace-inspector = { git = "https://github.com/zestfuldevelopment/workspace-inspector" }
 ```
 
 ```rust
